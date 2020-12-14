@@ -13,7 +13,7 @@ It allows snow to fall on all the pages of the Mantis Bug Tracker software.
 | [master](https://github.com/VirusTwo/SnowEffect)             | Support for MantisBT 2.x (current production version). |
 
 
-##Installation
+## Installation
 
 1. Download the files and place the folder `SnowEffect` in the directory `plugins/` of your Mantis installation. 
 2. With administrator privileges, go to the page *"Manage"* / *"Manage Plugins"*
