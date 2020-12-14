@@ -25,4 +25,4 @@ The SnowEfect plugin is now available. Each user can set on or off the falling s
 
 ## Screenshots & Gif :
 
-![](https://github.com/VirusTwo/SnowEffect/gif/SnowEffectMantis.gif)
+![SnowEffectMantis](https://github.com/VirusTwo/SnowEffect/blob/master/gif/SnowEffectMantis.gif)
